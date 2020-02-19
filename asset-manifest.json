@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tanc/static/css/main.432eb040.chunk.css",
+    "main.js": "/tanc/static/js/main.3163a5c5.chunk.js",
+    "main.js.map": "/tanc/static/js/main.3163a5c5.chunk.js.map",
+    "runtime-main.js": "/tanc/static/js/runtime-main.228afc46.js",
+    "runtime-main.js.map": "/tanc/static/js/runtime-main.228afc46.js.map",
+    "static/js/2.0b13ad88.chunk.js": "/tanc/static/js/2.0b13ad88.chunk.js",
+    "static/js/2.0b13ad88.chunk.js.map": "/tanc/static/js/2.0b13ad88.chunk.js.map",
+    "index.html": "/tanc/index.html",
+    "precache-manifest.45fb3bd36af97b00e86b1c468b2802e8.js": "/tanc/precache-manifest.45fb3bd36af97b00e86b1c468b2802e8.js",
+    "service-worker.js": "/tanc/service-worker.js",
+    "static/css/main.432eb040.chunk.css.map": "/tanc/static/css/main.432eb040.chunk.css.map",
+    "static/js/2.0b13ad88.chunk.js.LICENSE.txt": "/tanc/static/js/2.0b13ad88.chunk.js.LICENSE.txt",
+    "static/media/AnuraagTemp.jpg": "/tanc/static/media/AnuraagTemp.7ee3186a.jpg",
+    "static/media/ChrisTemp.jpg": "/tanc/static/media/ChrisTemp.471c7f61.jpg",
+    "static/media/NavedTemp.jpg": "/tanc/static/media/NavedTemp.6efbfe79.jpg",
+    "static/media/Scene1.png": "/tanc/static/media/Scene1.b4d9c2d4.png",
+    "static/media/Scene2.png": "/tanc/static/media/Scene2.571daa04.png",
+    "static/media/Scene3.png": "/tanc/static/media/Scene3.3bb950f5.png",
+    "static/media/TabithaTemp.jpg": "/tanc/static/media/TabithaTemp.39ae7b9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228afc46.js",
+    "static/js/2.0b13ad88.chunk.js",
+    "static/css/main.432eb040.chunk.css",
+    "static/js/main.3163a5c5.chunk.js"
+  ]
+}
